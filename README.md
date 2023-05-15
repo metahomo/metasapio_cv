@@ -41,7 +41,7 @@ Curriculum Vitae
 |Year|Department|Schools|
 |---|---|---|
 |20.09~22.07|The Division of Psychoanalysis Counseling|Yemyeong Graduate University|
-|22.09~23.05|Industrial & Advertizing Psychology|Deajeon University|
+|22.09~|Industrial & Advertizing Psychology|Deajeon University|
 
 : Lecturer Qualifications {#tbl-cv-lecturer-qualification}
 
