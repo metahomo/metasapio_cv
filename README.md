@@ -7,14 +7,12 @@ Curriculum Vitae
 |---|---|
 |Dr. Phillip Y. Park|nlpwizard@kakao.com|
 
-: Name and email {#tbl-cv-name-email}
-
 |Year|School|Department(Major)|Title|Credits|
 |---|---|---|---|---|
-|16.03~20.02|Yemyeong Graduate University|Counseling Psychology, School of Humanities and Social Sciences|Doctor of Counseling Psychology|Yemyeong(Ph.D)-47|
+|16.03~20.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Doctor of Counseling Psychology|Yemyeong(Ph.D)-47|
 |18.03~21.08|Daejeon University|Psychology, Department of Psychology|Doctoral Program Completed||
-|09.03~11.08|Chungbuk University|Major in Forestry and Forest Environmental Studies|PhD Program Completed||
-|20.03~21.02|Yemyeong Graduate University|Counseling Psychology, School of Humanities and Social Sciences|M.A.|Th-366|
+|09.03~11.08|Chungbuk University|Forestry and Forest Environmental Studies|PhD Program Completed||
+|20.03~21.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|M.A.|Th-366|
 |97.09~00.06|University of Glamorgan(UK)|Modern Evangelical Theology|Th.M|97001910|
 |20.03~23.02|ACBS|Korean as Foreign Language|B.A.|CB-2023-BA-015269|
 |05.02~19.02|ACBS|Psychology|B.A.|CB-2019-BA-009699|
@@ -25,8 +23,7 @@ Curriculum Vitae
 
 |Year|Contents|
 |---|---|
-|---|---|
-|18.10~~|CEO of [Muamway Times](https://muamway.net)|
+|18.10~|CEO of [Muamway Times](https://muamway.net)|
 |22.04.04|Transactional Analysis Master Coach (Korea Transactional Analysis and Counseling Association)|
 |18.11.30|Lifelong Educator Level 2 (No. N2-18-6298, Ministry of Education)|
 |18.11.11|Havruta Education Specialist (License Number: 2018-00-013, Havruta Education Association)|
