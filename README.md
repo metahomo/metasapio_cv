@@ -39,9 +39,10 @@ Curriculum Vitae
 : Qualifications and Training {#tbl-cv-qualifications-Training}
 
 |Year|Department|Schools|
-|---|---|
-|20.09~22.07|Humanities and Social Sciences|Yemyeong Graduate University|
+|---|---|---|
+|20.09~22.07|The Division of Psychoanalysis Counseling|Yemyeong Graduate University|
 |22.09~23.05|Industrial & Advertizing Psychology|Deajeon University|
+
 : Lecturer Qualifications {#tbl-cv-lecturer-qualification}
 
 |Degree|Year|Title|
