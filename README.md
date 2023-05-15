@@ -7,6 +7,8 @@ Curriculum Vitae
 |---|---|
 |Dr. Phillip Y. Park|nlpwizard@kakao.com|
 
+::: Degrees :::
+
 |Year|School|Department(Major)|Title|Credits|
 |---|---|---|---|---|
 |16.03~20.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Doctor of Counseling Psychology|Yemyeong(Ph.D)-47|
@@ -19,7 +21,7 @@ Curriculum Vitae
 |05.09~07.02|ACBS|Social Welfare|B.A.|CB-2007-BA-38437|
 |80.03~85.02|Kyung Hee Univ.|EL&L|B.A.|1984-나-54357|
 
-: Degrees {#tbl-cv-degree}
+::: Qualifications and Training :::
 
 |Year|Contents|
 |---|---|
