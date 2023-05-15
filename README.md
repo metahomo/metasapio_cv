@@ -1,6 +1,6 @@
 
 
-# Phillip Y. Park's Curriculum Vitae
+# Dr. Phillip Y. Park's Curriculum Vitae
 
 |Name|Email|
 |---|---|
