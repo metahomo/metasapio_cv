@@ -1,12 +1,6 @@
 # cv
 Curriculum Vitae
-<html>
-html>
-<html>
-tml>
 
-
-</html>
 # Phillip Y. Park's Curriculum Vitae
 
 |Name|Email|
