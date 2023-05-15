@@ -1,5 +1,4 @@
-# cv
-Curriculum Vitae
+
 
 # Phillip Y. Park's Curriculum Vitae
 
