@@ -38,21 +38,21 @@ Curriculum Vitae
 |05.10.06|Buzan Licensed Instructor (International Buzan Center)|
 |06.03~18.01|Lecturer at Alphaco (Editing Instructor)|
 
-: Qualifications and Training {#tbl-cv-qualifications-Training}
+::: Lecturer Qualifications :::
 
 |Year|Department|Schools|
 |---|---|---|
 |20.09~22.07|The Division of Psychoanalysis Counseling|Yemyeong Graduate University|
 |22.09~|Industrial & Advertizing Psychology|Deajeon University|
 
-: Lecturer Qualifications {#tbl-cv-lecturer-qualification}
+::: Thesis and Dissertation :::
 
 |Degree|Year|Title|
 |---|---|---|
 |Ph.D. in CS|2020|The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019. Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea.|
 |Thesis|1999|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom.|
 
-: Thesis and Dissertation {#tbl-cv-thesis-dissertation}
+::: Academic Journals :::
 
 |Year|Title|
 |---|---|
@@ -61,7 +61,7 @@ Curriculum Vitae
 |2014|Development and validation of the TACA-type self-status equilibrium scale. TACR, 4 (2): 25-78.|
 |2014|Development and validation of the TACA-type life attitude equilibrium scale. Interaction Analysis and Counseling Research, 4 (2): 125-163.|
 
-: Academic Journals {#tbl-cv-journal}
+::: Books :::
 
 |Year|Contents|
 |---|---|
@@ -70,7 +70,7 @@ Curriculum Vitae
 |2013|Transactional Analysis (TA) Bibliography of Research: 1947-2012. Seoul: Purple (Kyobo Books).|
 |1999|Charting Missiology. Seoul: The Chart of Christian Missionary Society.|
 
-: Books {#tbl-cv-book}
+:::: Translations :::
 
 |Year|Contents|
 |---|---|
@@ -80,6 +80,5 @@ Curriculum Vitae
 |2014|J.S. Horewitz. Family Therapy and Transactional Analysis. Anyang: Academia.|
 |2013|R. Erskine. Life Script. Anyang: Academia.|
 
-: Translations {#tbl-cv-translation}
 
-#Now CV is still editing.
+# Now CV is still editing.
