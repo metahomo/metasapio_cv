@@ -1,5 +1,3 @@
-
-
 # Dr. Phillip Y. Park's Curriculum Vitae
 
 |Name|Email|
@@ -10,10 +8,10 @@
 
 |Year|School|Department(Major)|Title|Credits|
 |---|---|---|---|---|
-|16.03~20.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Doctor of Counseling Psychology|Yemyeong(Ph.D)-47|
-|18.03~21.08|Daejeon University|Psychology, Department of Psychology|Doctoral Program Completed||
+|18.03~23.08|Daejeon University|Psychology, Department of Psychology|Doctor of Philosophy in Psychology|DJU2022(D)-067|
+|16.03~20.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Doctor of Counseling Psychology|Yemyeong(D)-47|
 |09.03~11.08|Chungbuk University|Forestry and Forest Environmental Studies|PhD Program Completed||
-|20.03~21.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|M.A.|Th-366|
+| 20.03~21.02| Yemyeong Graduate University| Counseling Psychology, School of Humanities and Social Sciences| M.A.| Th-366|
 |97.09~00.06|University of Glamorgan(UK)|Modern Evangelical Theology|Th.M|97001910|
 |20.03~23.02|ACBS|Korean as Foreign Language|B.A.|CB-2023-BA-015269|
 |05.02~19.02|ACBS|Psychology|B.A.|CB-2019-BA-009699|
@@ -41,8 +39,8 @@
 
 |Year|Department|Schools|
 |---|---|---|
+|22.09~23.08|Industrial & Advertizing Psychology|Deajeon University|
 |20.09~22.07|The Division of Psychoanalysis Counseling|Yemyeong Graduate University|
-|22.09~|Industrial & Advertizing Psychology|Deajeon University|
 
 ::: Thesis and Dissertation :::
 
