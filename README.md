@@ -46,15 +46,16 @@
 
 |Degree|Year|Title|
 |---|---|---|
-|Ph.D. in CS|2020|The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019. Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea.|
-|Thesis|1999|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom.|
+|Doctor|2023|[The Effectiveness of Coaching Leadership : Systematic Review and Meta-Analysis with R. Ph.D. in Pschology](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Daejeon University. Daejeon, Korea.|
+|Doctor|2020|[The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo). Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea.|
+|Master|1999|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom.|
 
 ::: Academic Journals :::
 
 |Year|Title|
 |---|---|
-|2021.1|Meta-analysis with R on the Effectiveness of Emotional Coaching Programs. Coaching Research, 4(5): 77-104.|
-|2021.12|Meta-analysis with R on the Effectiveness of Educational Programs for Nurses. Coaching Research, 4(6): 91-118.|
+|2021.1|[Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). Coaching Research, 4(5): 77-104.|
+|2021.12|[Meta-analysis with R on the Effectiveness of Educational Programs for Nurses](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). Coaching Research, 4(6): 91-118.|
 |2014|Development and validation of the TACA-type self-status equilibrium scale. TACR, 4 (2): 25-78.|
 |2014|Development and validation of the TACA-type life attitude equilibrium scale. Interaction Analysis and Counseling Research, 4 (2): 125-163.|
 
@@ -62,7 +63,7 @@
 
 |Year|Contents|
 |---|---|
-|2015|TA OK Coaching. Kyunggi: Anyang, Academia.|
+|2015|[TA OK Coaching](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=d7345961987b50bf&control_no=de34df5c136fc1f6ffe0bdc3ef48d419&keyword=). Kyunggi: Anyang, Academia.|
 |2015|Theory and Practice of the Transactional Analysis (TA) Coaching Model for Change and Development. Seoul: Purple (Kyobo Books).|
 |2013|Transactional Analysis (TA) Bibliography of Research: 1947-2012. Seoul: Purple (Kyobo Books).|
 |1999|Charting Missiology. Seoul: The Chart of Christian Missionary Society.|
