@@ -8,8 +8,8 @@
 
 |Year|School|Department (Major)|Title|Credits|
 |---|---|---|---|---|
-|18.03~23.08|Daejeon University|Psychology, Department of Psychology|Ph.D. in Psychology|DJU2022 (D)-067|
-|16.03~20.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Ph.D. in Counseling Psychology|YGU (D)-47|
+|18.03~23.08|Daejeon University|Psychology, Department of Psychology|Ph.D. in Psychology|DJU2022(D)-067|
+|16.03~20.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Ph.D. in Counseling Psychology|YGU(D)-47|
 |09.03~11.08|Chungbuk University|Forestry and Forest Environmental Studies|Ph.D. Candidate||
 | 20.03~21.02| Yemyeong Graduate University| Counseling Psychology, School of Humanities and Social Sciences| M.A.| Th-366|
 |97.09~00.06|University of Glamorgan (UK)|Modern Evangelical Theology|Th.M|97001910|
@@ -32,10 +32,10 @@
 |13.11~|[Korean Transactional Analysis Counseling Association Supervisor in Organization](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
 |12.06~|[Korean Transactional Analysis Counseling Association Supervisor in Counseling](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
 |08.12.12|Forest Interpreters (Kookmin University: 20008504, Forest Service)|
-|08.10.27|Lifeforming Leadership Coach (LLC)|
+|08.10.27|[Lifeforming Leadership Coach, LLC](https://lifeformingcoach.com/)|
 |06.08.28|Social Worker 2 Class (No. 2-93333, Ministry of Health and Welfare)|
 |05.10.06|Buzan Licensed Instructor (International Buzan Center)|
-|06.03~18.01|Lecturer at Alphaco (Editing Instructor)|
+|06.03~18.01|[Editing Instructor in Alphaco(https://corp.alpaco.co.kr/)|
 
 ::: Lecturer Qualifications:::
 
@@ -58,27 +58,27 @@
 |---|---|
 |2021.1|[Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). Coaching Research, 4 (5): 77-104.|
 |2021.12|[Meta-analysis with R on the Effectiveness of Educational Programs for Nurses](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). Coaching Research, 4 (6): 91-118.|
-|2014|Development and validation of the TACA-type self-status equilibrium scale. TACR, 4 (2): 25-78.|
-|2014|Development and validation of the TACA-type life attitude equilibrium scale. Interaction Analysis and Counseling Research, 4 (2): 125-163.|
+|2014|[Development and Validation of the TACA-type Ego-states Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). TACR, 4 (2): 25-78.|
+|2014|[Development and Validation of the TACA-type Life Position Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). Interaction Analysis and Counseling Research, 4 (2): 125-163.|
 
 ::: Books:::
 
 |Year|Contents|
 |---|---|
 |2015|[TA OK Coaching](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=d7345961987b50bf&control_no=de34df5c136fc1f6ffe0bdc3ef48d419&keyword=). Kyunggi: Anyang, Academia.|
-|2015|Theory and Practice of the Transactional Analysis (TA) Coaching Model for Change and Development. Seoul: Purple (Kyobo Books).|
-|2013|Transactional Analysis (TA) Bibliography of Research: 1947-2012. Seoul: Purple (Kyobo Books).|
-|1999|Charting Missiology. Seoul: The Chart of Christian Missionary Society.|
+|2015|[Theory and Practice of the Transactional Analysis (TA) Coaching Model for Change and Development](https://product.kyobobook.co.kr/detail/S000060601325). Seoul: Purple (Kyobo Books).|
+|2013|[Transactional Analysis (TA) Bibliography of Research: 1947-2012](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003007652). Seoul: Purple (Kyobo Books).|
+|1999|[Chart Missiology](https://product.kyobobook.co.kr/detail/S000000589541). Seoul: The CLC.|
 
 :::: Translations:::
 
 |Year|Contents|
 |---|---|
-|2019|July Hay. Transactional Analysis Consultation (for Businesses and Organizations). Anyang: Arcadeia.|
-|2015|A. Mountain & C. Davidson. Transactional Analysis for Businesses and Organizations. Seoul: Hakji.|
-|2015|Mavis Klein. Intimate Relationships Through a Transactional Analysis (TA) Approach. Anyang: Academia.|
+|2019|July Hay. [Transactional Analysis Consultation for Businesses and Organizations](https://product.kyobobook.co.kr/detail/S000000896704). Anyang: Arcadeia.|
+|2015|A. Mountain & C. Davidson. [Transactional Analysis for Businesses and Organizations](https://product.kyobobook.co.kr/detail/S000001642587). Seoul: Hakji.|
+|2015|Mavis Klein. [Intimate Relationships through a Transactional Analysis (TA) Approach](https://product.kyobobook.co.kr/detail/S000000896659). Anyang: Academia.|
 |2014|J.S. Horewitz. Family Therapy and Transactional Analysis. Anyang: Academia.|
-|2013|R. Erskine. Life Script. Anyang: Academia.|
+|2013|R. Erskine. [Life Script](https://product.kyobobook.co.kr/detail/S000000896635). Anyang: Academia.|
 
 
 # Now CV is still editing.
