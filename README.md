@@ -35,7 +35,7 @@
 |08.10.27|[Lifeforming Leadership Coach, LLC](https://lifeformingcoach.com/)|
 |06.08.28|Social Worker 2 Class (No. 2-93333, Ministry of Health and Welfare)|
 |05.10.06|Buzan Licensed Instructor (International Buzan Center)|
-|06.03~18.01|[Editing Instructor in Alphaco(https://corp.alpaco.co.kr/)|
+|06.03~18.01|[Editing Instructor in Alphaco](https://corp.alpaco.co.kr/)|
 
 ::: Lecturer Qualifications:::
 
