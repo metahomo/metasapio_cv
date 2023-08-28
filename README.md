@@ -13,7 +13,7 @@
 |09.03~11.08|Chungbuk University|Forestry and Forest Environmental Studies|Ph.D. Candidate||
 | 20.03~21.02| Yemyeong Graduate University| Counseling Psychology, School of Humanities and Social Sciences| M.A.| Th-366|
 |97.09~00.06|University of Glamorgan (UK)|Modern Evangelical Theology|Th.M|97001910|
-|20.03~23.02|ACBS|Korean as Foreign Language|B.A.|CB-2023-BA-015269|
+|20.03~23.02|ACBS|[Korean as Foreign Language|B.A.|CB-2023-BA-015269|
 |05.02~19.02|ACBS|Psychology|B.A.|CB-2019-BA-009699|
 |05.09~07.02|ACBS|Social Welfare|B.A.|CB-2007-BA-38437|
 |80.03~85.02|Kyung Hee Univ.|English Language &Literture|B.A.|1984-나-54357|
@@ -22,15 +22,15 @@
 
 |Year|Contents|
 |---|---|
-|18.10~|CEO of Muamway Times (https://muamway.net)|
-|22.04~|Korea Transactional Analysis and Counseling Association,Transactional Analysis Master Coach (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
+|18.10~|CEO of [Muamway Times](https://muamway.net)|
+|22.04~|[Korea Transactional Analysis and Counseling Association,Transactional Analysis Master Coach](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
 |18.11.30|Lifelong Educator Level 2, Ministry of Education)|
 |18.11.11|Havruta Education Specialist, Havruta Education Association (https://cafe.naver.com/havrutaeducation/1993)|
 |18.11.11|Havruta Educator Level 1, Havruta Education Association) (https://cafe.naver.com/havrutaeducation/1993)|
 |15.07.31|International Certified NLP Trainer (NLPU) (https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965)|
-|14.02~|Korean Transactional Analysis Counseling Association Supervisor in Education (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%C0%B0%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
-|12.06-|Korean Transactional Analysis Counseling Association Supervisor in Organization (13.11.02~ Now) (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
-|12.06-|Korean Transactional Analysis Counseling Association Supervisor in Counseling (12.06.18~ Now) (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
+|14.02~|[Korean Transactional Analysis Counseling Association Supervisor in Education (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%C0%B0%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
+|13.11~|[Korean Transactional Analysis Counseling Association Supervisor in Organization (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
+|12.06~|[Korean Transactional Analysis Counseling Association Supervisor in Counseling (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
 |08.12.12|Forest Interpreters (Kookmin University: 20008504, Forest Service)|
 |08.10.27|Lifeforming Leadership Coach (LLC)|
 |06.08.28|Social Worker 2 Class (No. 2-93333, Ministry of Health and Welfare)|
