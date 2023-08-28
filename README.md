@@ -4,7 +4,7 @@
 |---|---|
 |Dr. Phillip Y. Park|nlpwhiz@gmail.com|
 
-::: Degrees :::
+::: Degrees:::
 
 |Year|School|Department (Major)|Title|Credits|
 |---|---|---|---|---|
@@ -18,7 +18,7 @@
 |05.09~07.02|ACBS|Social Welfare|B.A.|CB-2007-BA-38437|
 |80.03~85.02|Kyung Hee Univ.|English Language &Literture|B.A.|1984-나-54357|
 
-::: Qualifications and Training :::
+::: Qualifications and Training:::
 
 |Year|Contents|
 |---|---|
@@ -37,22 +37,22 @@
 |05.10.06|Buzan Licensed Instructor (International Buzan Center)|
 |06.03~18.01|Lecturer at Alphaco (Editing Instructor)|
 
-::: Lecturer Qualifications :::
+::: Lecturer Qualifications:::
 
 |Year|Department|Schools|
 |---|---|---|
 |22.09~23.08|Industrial & Advertizing Psychology|Deajeon University|
 |20.09~22.07|The Division of Psychoanalysis Counseling|Yemyeong Graduate University|
 
-::: Thesis and Dissertation :::
+::: Thesis and Dissertation:::
 
 |Degree|Year|Title|
 |---|---|---|
-|Doctor|2023|[The Effectiveness of Coaching Leadership : Systematic Review and Meta-Analysis with R](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Ph.D. in Pschology Daejeon University. Daejeon, Korea.|
+|Doctor|2023|[The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Ph.D. in Pschology. Daejeon University. Daejeon, Korea.|
 |Doctor|2020|[The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo). Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea.|
 |Master|1999|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom.|
 
-::: Academic Journals :::
+::: Academic Journals:::
 
 |Year|Title|
 |---|---|
@@ -61,7 +61,7 @@
 |2014|Development and validation of the TACA-type self-status equilibrium scale. TACR, 4 (2): 25-78.|
 |2014|Development and validation of the TACA-type life attitude equilibrium scale. Interaction Analysis and Counseling Research, 4 (2): 125-163.|
 
-::: Books :::
+::: Books:::
 
 |Year|Contents|
 |---|---|
@@ -70,7 +70,7 @@
 |2013|Transactional Analysis (TA) Bibliography of Research: 1947-2012. Seoul: Purple (Kyobo Books).|
 |1999|Charting Missiology. Seoul: The Chart of Christian Missionary Society.|
 
-:::: Translations :::
+:::: Translations:::
 
 |Year|Contents|
 |---|---|
