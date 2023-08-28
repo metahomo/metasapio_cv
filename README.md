@@ -77,8 +77,8 @@
 |2019|July Hay. [Transactional Analysis Consultation for Businesses and Organizations](https://product.kyobobook.co.kr/detail/S000000896704). Anyang: Arcadeia.|
 |2015|A. Mountain & C. Davidson. [Transactional Analysis for Businesses and Organizations](https://product.kyobobook.co.kr/detail/S000001642587). Seoul: Hakji.|
 |2015|Mavis Klein. [Intimate Relationships through a Transactional Analysis (TA) Approach](https://product.kyobobook.co.kr/detail/S000000896659). Anyang: Academia.|
-|2014|J.S. Horewitz. Family Therapy and Transactional Analysis. Anyang: Academia.|
+|2014|J.S. Horewitz. [Family Therapy and Transactional Analysis](https://product.kyobobook.co.kr/detail/S000000896645). Anyang: Academia.|
 |2013|R. Erskine. [Life Script](https://product.kyobobook.co.kr/detail/S000000896635). Anyang: Academia.|
 
 
-# Now CV is still editing.
+### Now CV is still editing.
