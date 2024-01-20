@@ -1,24 +1,24 @@
-# Dr. Phillip Y. Park's Curriculum Vitae
+### Dr. Phillip Y. Park's Curriculum Vitae ###
 
 |Name|Email|
 |---|---|
 |Dr. Phillip Y. Park|nlpwhiz@gmail.com|
 
-::: Degrees:::
+:::Degrees:::
 
 |Year|School|Department (Major)|Title|Credits|
 |---|---|---|---|---|
 |18.03~23.08|Daejeon University|Psychology, Department of Psychology|Ph.D. in Psychology|DJU2022(D)-067|
 |16.03~20.02|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Ph.D. in Counseling Psychology|YGU(D)-47|
 |09.03~11.08|Chungbuk University|Forestry and Forest Environmental Studies|Ph.D. Candidate||
-| 20.03~21.02| Yemyeong Graduate University| Counseling Psychology, School of Humanities and Social Sciences| M.A.| Th-366|
+| 20.03~21.02| Yemyeong Graduate University| Counseling Psychology, School of Humanities and Social Sciences| M.A.|YGU(M)-366|
 |97.09~00.06|University of Glamorgan (UK)|Modern Evangelical Theology|Th.M|97001910|
 |20.03~23.02|ACBS|[Korean as Foreign Language|B.A.|CB-2023-BA-015269|
 |05.02~19.02|ACBS|Psychology|B.A.|CB-2019-BA-009699|
 |05.09~07.02|ACBS|Social Welfare|B.A.|CB-2007-BA-38437|
 |80.03~85.02|Kyung Hee Univ.|English Language &Literture|B.A.|1984-나-54357|
 
-::: Qualifications and Training:::
+:::Qualifications and Training:::
 
 |Year|Contents|
 |---|---|
@@ -41,6 +41,7 @@
 
 |Year|Department|Schools|
 |---|---|---|
+|24.02~     |Counseling Psychology|Midwest University|
 |22.09~23.08|Industrial & Advertizing Psychology|Deajeon University|
 |20.09~22.07|The Division of Psychoanalysis Counseling|Yemyeong Graduate University|
 
