@@ -22,8 +22,8 @@
 
 |Year|Contents|
 |---|---|
-|24.02~|[Lecturer, Midwest University (Counseling Psychology)](https://midwest.edu)|
-|214.01~|International Transactional Analysis Association(ITAA) [https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18)|
+|24.02~|Lecturer, Midwest University (Counseling Psychology)|
+|214.01~|[International Transactional Analysis Association(ITAA) Member] (https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18)|
 |18.10~|CEO of [Muamway Times](https://muamway.net)|
 |22.04~|[Korea Transactional Analysis and Counseling Association,Transactional Analysis Master Coach](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE)|
 |18.11.30|Lifelong Educator Level 2, Ministry of Education)|
