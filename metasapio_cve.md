@@ -43,7 +43,6 @@
 
 |*|Department|Schools|
 |---|---|---|
-|Present|Counseling Psychology|Midwest University|
 |Former|Industrial & Advertizing Psychology|Deajeon University|
 |Former|The Division of Psychoanalysis Counseling|Yemyeong Graduate University|
 
