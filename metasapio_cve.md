@@ -6,7 +6,7 @@
 
 :::Degrees:::
 
-|Year|School|Department (Major)|Title|Credits|
+|*|School|Department (Major)|Title|Credits|
 |---|---|---|---|---|
 |*|Daejeon University|Psychology, Department of Psychology|Ph.D. in Psychology|DJU2022(D)-067|
 |*|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Ph.D. in Counseling Psychology|YGU(D)-47|
@@ -20,7 +20,7 @@
 
 :::Qualifications and Training:::
 
-|Year|Contents|
+|*|Contents|
 |---|---|
 |*|Professor, Midwest University (Department of Counseling)|
 |*|International Transactional Analysis Association (ITAA) [Member] (https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18)|
@@ -41,7 +41,7 @@
 
 ::: Lecturer Qualifications:::
 
-|Year|Department|Schools|
+|*|Department|Schools|
 |---|---|---|
 |Present|Counseling Psychology|Midwest University|
 |Former|Industrial & Advertizing Psychology|Deajeon University|
