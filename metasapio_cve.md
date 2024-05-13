@@ -2,7 +2,7 @@
 
 |Name|Email|
 |---|---|
-|Dr. Phillip Y. Park|nlpwhiz@gmail.com|
+|Dr. Phillip Y. Park|yongmin.park@midwest.edu / nlpwhiz@gmail.com|
 
 :::Degrees:::
 
