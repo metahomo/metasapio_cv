@@ -49,20 +49,21 @@
 
 ::: Thesis and Dissertation:::
 
-|Degree|Year|Title|
-|---|---|---|
-|Doctor|2023|[The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Ph.D. in Pschology. Daejeon University. Daejeon, Korea.|
-|Doctor|2020|[The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo). Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea.|
-|Master|1999|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom.|
+|Degree|Title|
+|---|---|
+|Doctor|[The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Ph.D. in Pschology. 2023, Daejeon University. Daejeon, Korea.|
+|Doctor|[The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo). Ph.D. in Counseling Psychology. 2020, Yemyung Graduate University. Seoul, Korea.|
+|Master| Master in Psychoanalysis Counseling. 2020, Yemyung Graduate University. Seoul, Korea.|
+|Master|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. 1999, University of Glamorgan. Wales, United Kingdom.|
 
 ::: Academic Journals:::
 
-|Year|Title|
-|---|---|
-|2021.1|[Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). Coaching Research, 4 (5): 77-104.|
-|2021.12|[Meta-analysis with R on the Effectiveness of Educational Programs for Nurses](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). Coaching Research, 4 (6): 91-118.|
-|2014|[Development and Validation of the TACA-type Ego-states Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). TACR, 4 (2): 25-78.|
-|2014|[Development and Validation of the TACA-type Life Position Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). Interaction Analysis and Counseling Research, 4 (2): 125-163.|
+|Title|
+|---|
+|[Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). Coaching Research, 2021, 4 (5): 77-104.|
+|[Meta-analysis with R on the Effectiveness of Educational Programs for Nurses](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). Coaching Research, 2021, 4 (6): 91-118.|
+|[Development and Validation of the TACA-type Ego-states Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). TACR, 2014, 4 (2): 25-78.|
+|[Development and Validation of the TACA-type Life Position Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). Interaction Analysis and Counseling Research, 2014, 4 (2): 125-163.|
 
 ::: Books:::
 
