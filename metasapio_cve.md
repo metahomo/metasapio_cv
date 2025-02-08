@@ -22,7 +22,7 @@
 
 |*|Contents|
 |---|---|
-|*|Professor, Midwest University ([Graduate School of Education & Counseling](https://www.midwest.edu/eng/02academic/05faculty.asp#))|
+|*|[Professor, Midwest University (Graduate School of Education & Counseling)](https://www.midwest.edu/eng/02academic/05faculty.asp#)|
 |*|[American Psychological Association (APA) Member](https://directory.apa.org/MemDirProfile?rid=phillip-park-347)|
 |*|[International Transactional Analysis Association(ITAA) Member](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18)|
 |*|[CEO of Muamway Times](https://muamway.net)|
