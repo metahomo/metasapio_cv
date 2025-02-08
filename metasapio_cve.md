@@ -78,6 +78,7 @@
 
 |Year|Contents|
 |---|---|
+|2024| Mark Solms.  [『프로이트의 심리학 전집 개정 표준판(The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud)』](https://knpaca.kr/translation/rse24/index.html).|
 |2019|July Hay. [Transactional Analysis Consultation for Businesses and Organizations](https://product.kyobobook.co.kr/detail/S000000896704). Anyang: Arcadeia.|
 |2015|A. Mountain & C. Davidson. [Transactional Analysis for Businesses and Organizations](https://product.kyobobook.co.kr/detail/S000001642587). Seoul: Hakji.|
 |2015|Mavis Klein. [Intimate Relationships through a Transactional Analysis (TA) Approach](https://product.kyobobook.co.kr/detail/S000000896659). Anyang: Academia.|
