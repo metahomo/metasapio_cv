@@ -55,7 +55,6 @@
 | --- | --- |
 | Doctor | [<i>The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Ph.D. in Pschology. 2023, Daejeon University. Daejeon, Korea. |
 | Doctor | [<i>The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo). Ph.D. in Counseling Psychology. 2021, Yemyung Graduate University. Seoul, Korea. |
-| Master | Master in Psychoanalysis Counseling. 2020, Yemyung Graduate University. Seoul, Korea. |
 | Master | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology</i>. Master of Theology. 1999, University of Glamorgan. Wales, United Kingdom. |
 
 ::: Academic Journals:::
