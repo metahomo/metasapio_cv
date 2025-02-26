@@ -29,15 +29,15 @@
 | * | [뫔길다문화심리교육신문 대표](https://muamway.net) |
 | * | [한국교류분석상담학회, 교류분석 마스터 코치](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | 평생교육사 2급 (교육부) |
-| * | [하브루타 교육전문가, 하브루타 교육 학회](https://cafe.naver.com/havrutaeducation/1993) |
-| * | [하브루타 교육사 1급, 하브루타 교육 학회)](https://cafe.naver.com/havrutaeducation/1993) |
+| * | [하브루타 교육전문가 (하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
+| * | [하브루타 교육사 1급 (하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
 | * | [국제 공인 NLP 트레이너(NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
 | * | [한국교류분석상담학회 교육영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%C0%B0%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | [한국교류분석학회 조직영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | [한국교류분석상담학회 상담영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| * | 숲해설가 (국민대학교: 20008504, 산림청) |
+| * | 숲해설가 (국민대학교: 200085**, 산림청) |
 | * | [라이프포밍 리더십 코치, LLC](https://lifeformingcoach.com/) |
-| * | 사회복지사 2급 (보건복지부 2-933333호) |
+| * | 사회복지사 2급 (보건복지부 2-933***호) |
 | * | 국제부잔공인강사(Qualified Buzan Instructor, 국제부잔센터) |
 
 ::: 강사 자격:::
@@ -60,7 +60,7 @@
 | 제목 |
 | --- |
 | [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). Coaching Research, 2021, 4 (5): 77-104. |
-| [간호사를 위한 교육프로그램의 효과에 관한 R메타분석](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). Coaching Research, 2021, 4 (6): 91-118. |
+| [간호사를 위한 교육프로그램의 효과에 관한 R메타분석](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). <i>코칭연구</i>, 2021, 4 (6): 91-118. |
 | [TACA형 자아상태 평정척도 개발 및 타당화 연구](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) . 교류분석상담연구, 2014, 4 (2): 25-78. |
 | [TACA형 인생태도 평정척도 개발 및 타당화 연구](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) . 교류분석상담연구, 2014, 4 (2): 125-163. |
 
