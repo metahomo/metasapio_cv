@@ -6,17 +6,17 @@
 
 :::Degrees:::
 
-|*|School|Department (Major)|Title|Credits|
-|---|---|---|---|---|
-|*|Daejeon University|Psychology, Department of Psychology|Ph.D. in Psychology|DJU2022(D)-067|
-|*|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Ph.D. in Counseling Psychology|YGU(D)-47|
-|*|Chungbuk University|Forestry and Forest Environmental Studies|Ph.D. Candidate||
-|*| Yemyeong Graduate University| Counseling Psychology, School of Humanities and Social Sciences| M.A.|YGU(M)-366|
-|*|University of Glamorgan (UK)|Modern Evangelical Theology|Th.M|97001910|
-|*|ACBS|[Korean as Foreign Language|B.A.|CB-2023-BA-015269|
-|*|ACBS|Psychology|B.A.|CB-2019-BA-009699|
-|*|ACBS|Social Welfare|B.A.|CB-2007-BA-38437|
-|*|Kyung Hee Univ.|English Language &Literture|B.A.|1984-나-54357|
+|*|School|Department (Major)|Title|
+|---|---|---|---|
+|*|Daejeon University|Psychology, Department of Psychology|Ph.D. in Psychology|
+|*|Yemyeong Graduate University|The Division of Psychoanalysis Counseling|Ph.D. in Counseling Psychology|
+|*|Chungbuk University|Forestry and Forest Environmental Studies|Ph.D. Candidate|
+|*| Yemyeong Graduate University| Counseling Psychology, School of Humanities and Social Sciences| M.A.|
+|*|University of Glamorgan (UK)|Modern Evangelical Theology|Th.M|
+|*|ACBS|[Korean as Foreign Language|B.A.|
+|*|ACBS|Psychology|B.A.|
+|*|ACBS|Social Welfare|B.A.|
+|*|Kyung Hee Univ.|English Language &Literture|B.A.|
 
 :::Qualifications and Training:::
 
