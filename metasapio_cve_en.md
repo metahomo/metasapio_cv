@@ -1,4 +1,4 @@
-### Dr. Phillip Y. Park's Curriculum Vitae ###
+### Prof. Drs. Phillip Y. Park's Curriculum Vitae ###
 
 | Name | Position |
 | --- | --- |
