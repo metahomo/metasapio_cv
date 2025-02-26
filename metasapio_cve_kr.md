@@ -1,6 +1,6 @@
 ### 이 력 서 ###
 
-이름|이메일|
+이름|현직|
 |---|---|
 |박 용 민|교수, Midwest대학교, (상담학, 교육상담대학원|
 |Ph.D.s(심리학, 상담심리학)|yongmin.park@midwest.edu / nlpwhiz@gmail.com |
@@ -26,7 +26,7 @@
 |*|[Midwest대학교 교수(상담학, 교육 및 상담대학원)](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
 |*|[미국심리학회(APA) 회원](https://directory.apa.org/MemDirProfile?rid=phillip-park-347) |
 |*|[국제교류분석학회(ITAA) 회원](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18) |
-|*|[뫔길다문화심리교육신문 대표](https://muamway.net |
+|*|[뫔길다문화심리교육신문 대표](https://muamway.net) |
 |*|[한국교류분석상담학회, 교류분석 마스터 코치](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 |*|평생교육사 2급 (교육부)|
 |*|[하브루타 교육전문가, 하브루타 교육 학회](https://cafe.naver.com/havrutaeducation/1993) |
@@ -38,14 +38,14 @@
 |*|숲해설가 (국민대학교: 20008504, 산림청)|
 |*|[라이프포밍 리더십 코치, LLC](https://lifeformingcoach.com/)|
 |*|사회복지사 2급 (보건복지부 2-933333호)|
-|*|국제부잔공인강사(Qualified Buzan Instructor, 국제 부잔 센터)|
+|*|국제부잔공인강사(Qualified Buzan Instructor, 국제부잔센터)|
 
 ::: 강사 자격:::
 
 |*|학과|학교|
 |---|---|---|
 |전|산업 및 광고 심리학과 강사|대전대학교|
-|전|정신분석상담학과 강가|예명대학원대학교|
+|전|정신분석상담학과 강사|예명대학원대학교|
 
 ::: 논문 및 논문:::
 
