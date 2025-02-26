@@ -44,8 +44,8 @@
 
 | * | 학과 | 학교 |
 | --- | --- | --- |
-| 전 | 산업 및 광고 심리학과 강사 | 대전대학교 |
-| 전 | 정신분석상담학과 강사 | 예명대학원대학교 |
+| (전) | 산업 및 광고 심리학과 강사 | 대전대학교 |
+| (전) | 정신분석상담학과 강사 | 예명대학원대학교 |
 
 ::: 논문 및 논문:::
 
@@ -59,10 +59,10 @@
 
 | 제목 |
 | --- |
-| [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). Coaching Research, 2021, 4 (5): 77-104. |
+| [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). <i>Coaching Research</i>, 2021, 4 (5): 77-104. |
 | [간호사를 위한 교육프로그램의 효과에 관한 R메타분석](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). <i>코칭연구</i>, 2021, 4 (6): 91-118. |
-| [TACA형 자아상태 평정척도 개발 및 타당화 연구](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) . 교류분석상담연구, 2014, 4 (2): 25-78. |
-| [TACA형 인생태도 평정척도 개발 및 타당화 연구](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) . 교류분석상담연구, 2014, 4 (2): 125-163. |
+| [TACA형 자아상태 평정척도 개발 및 타당화 연구](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) . <i>교류분석상담연구</i>, 2014, 4 (2): 25-78. |
+| [TACA형 인생태도 평정척도 개발 및 타당화 연구](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) . <i>교류분석상담연구</i>, 2014, 4 (2): 125-163. |
 
 ::: 책:::
 
