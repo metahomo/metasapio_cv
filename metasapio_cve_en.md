@@ -1,6 +1,6 @@
 ### Dr. Phillip Y. Park's Curriculum Vitae ###
 
-| Name | position |
+| Name | Position |
 | --- | --- |
 | Phillip Y. Park | Professor, Counseling, Graduate School of Education & Counseling |
 | Ph.D.s | Psychology, Counsel Psychology |
