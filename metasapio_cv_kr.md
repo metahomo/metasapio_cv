@@ -2,7 +2,7 @@
 
 이름 | 현직 |
 | --- | --- |
-| 박 용 민 | 교수, Midwest대학교 (상담학, 교육상담대학원) |
+| 박 용 민 | [교수, Midwest대학교 (상담학, 교육상담대학원)](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
 | Ph.D.s(심리학, 상담심리학) | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
 
 ::::학위:::
