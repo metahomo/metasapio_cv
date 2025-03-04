@@ -2,7 +2,7 @@
 
 | Name | Position |
 | --- | --- |
-| Phillip Y. Park | Professor, Counseling, Graduate School of Education & Counseling |
+| Phillip Y. Park | [Professor, Counseling, Graduate School of Education & Counseling](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
 | Ph.D.s | Psychology, Counsel Psychology |
 | Email | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
 
@@ -87,9 +87,3 @@
 | --- | --- |
 | 2019 | July Hay. [<i>Transactional Analysis Consultation for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000000896704). Anyang: Arcadeia. |
 | 2015 | A. Mountain & C. Davidson. [<i>Transactional Analysis for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000001642587). Seoul: Hakji. |
-| 2015 | Mavis Klein. [<i>Intimate Relationships through a Transactional Analysis (TA) Approach</i>](https://product.kyobobook.co.kr/detail/S000000896659). Anyang: Academia. |
-| 2014 | J.S. Horewitz. [<i>Family Therapy and Transactional Analysis</i>](https://product.kyobobook.co.kr/detail/S000000896645). Anyang: Academia. |
-| 2013 | R. Erskine. [<i>Life Script</i>](https://product.kyobobook.co.kr/detail/S000000896635). Anyang: Academia. |
-
-
-### Now CV is still editing.
