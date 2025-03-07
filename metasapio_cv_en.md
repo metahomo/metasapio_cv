@@ -35,7 +35,7 @@
 | * | [Havruta Educator Level 1, Havruta Education Association)](https://cafe.naver.com/havrutaeducation/1993) |
 | * | [International Certified NLP Trainer (NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
 | * | [Korean Transactional Analysis Counseling Association Supervisor in Education](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%C0%B0%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| * | [Korean Transactional Analysis Counseling Association Supervisor in Organization](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
+| * | [Korean Transactional Analysis Counseling Association Master Trainer in Organization](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | [Korean Transactional Analysis Counseling Association Supervisor in Counseling](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | Forest Interpreters (Kookmin University: 20008504, Forest Service) |
 | * | [Lifeforming Leadership Coach, LLC](https://lifeformingcoach.com/) |
