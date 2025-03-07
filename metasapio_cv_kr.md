@@ -34,7 +34,7 @@
 | * | [하브루타 교육사 1급 (하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
 | * | [국제 공인 NLP 트레이너(NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
 | * | [한국교류분석상담학회 교육영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%C0%B0%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| * | [한국교류분석학회 조직영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
+| * | [한국교류분석학회 조직영역 마스터 트레이너] (https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | [한국교류분석상담학회 상담영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | 숲해설가 (국민대학교: 200085**, 산림청) |
 | * | [라이프포밍 리더십 코치, LLC](https://lifeformingcoach.com/) |
