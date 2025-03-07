@@ -26,6 +26,7 @@
 | * | [Midwest대학교 교수(상담학, 교육 및 상담대학원)](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
 | * | [미국심리학회(APA) 회원](https://directory.apa.org/MemDirProfile?rid=phillip-park-347) |
 | * | [국제교류분석학회(ITAA) 회원](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18) |
+| * | [국제정신분석학회(NPSA) 정회원](https://npsa-association.org/) |
 | * | [뫔길다문화심리교육신문 대표](https://muamway.net) |
 | * | [한국교류분석상담학회, 교류분석 마스터 코치](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | 평생교육사 2급 (교육부) |
