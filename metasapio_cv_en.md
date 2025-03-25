@@ -80,7 +80,7 @@
 
 | Year | Contents |
 | --- | --- |
-| 2024 | Mark Solms. [『프로이트의 심리학 전집 개정 표준판(<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>)』](https://knpaca.kr/translation/rse24/index.html) 24권. |
+| 2024 | Sigmund Freud, Mark Solms. [『프로이트의 심리학 전집 개정 표준판(<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>)』](https://knpaca.kr/translation/rse24/index.html) 24권. |
 
 :::: Translations - Collaborative Translation:::
 
