@@ -40,8 +40,7 @@
 | * | Forest Interpreters (Kookmin University: 20008504, Forest Service) |
 | * | [Lifeforming Leadership Coach, LLC](https://lifeformingcoach.com/) |
 | * | Social Worker 2 Class (No. 2-93333, Ministry of Health and Welfare) |
-| * | Buzan Licensed Instructor (International Buzan Center) |
-| * | [Editing Instructor in Alphaco](https://corp.alpaco.co.kr/) |
+| * | Qulified Buzan Instructor (QBI, International Buzan Center) |
 
 ::: Lecturer Qualifications:::
 
