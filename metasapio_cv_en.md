@@ -72,8 +72,15 @@
 | --- | --- |
 | 2015 | [<i>TA OK Coaching</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=d7345961987b50bf&control_no=de34df5c136fc1f6ffe0bdc3ef48d419&keyword=). Kyunggi: Anyang, Academia. |
 | 2015 | [<i>Theory and Practice of the Transactional Analysis (TA) Coaching Model for Change and Development</i>](https://product.kyobobook.co.kr/detail/S000060601325). Seoul: Purple (Kyobo Books). |
+| 2015 | [<i>Mind Mapping & Chart Series 1. Buddhist Overview That Ends at Once</i>](https://product.kyobobook.co.kr/detail/S000060601354). Kyobo: Purple. |
 | 2013 | [<i>Transactional Analysis (TA) Bibliography of Research: 1947-2012</i>](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003007652). Seoul: Purple (Kyobo Books). |
 | 1999 | [<i>Chart Missiology</i>](https://product.kyobobook.co.kr/detail/S000000589541). Seoul: The CLC. |
+
+:::: Translations - Exclusive Translation:::
+
+| Year | Contents |
+| --- | --- |
+| 2025 | [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292). Seoul: Hakjisa. |
 
 :::: Translations - Individual Translation:::
 
