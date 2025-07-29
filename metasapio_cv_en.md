@@ -80,7 +80,7 @@
 
 | Year | Contents |
 | --- | --- |
-| 2025 | [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292). Seoul: Hakjisa. |
+| 2025 | Zefiro Mellacqua, 조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제 [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292). Seoul: Hakjisa. |
 
 :::: Translations - Individual Translation:::
 
