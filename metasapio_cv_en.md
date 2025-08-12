@@ -82,11 +82,12 @@
 | --- | --- |
 | 2025 | Zefiro Mellacqua, [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ). Seoul: Hakjisa. |
 
-:::: Translations - Individual Translation:::
+:::: Translations - Private Translation:::
 
 | Year | Contents |
 | --- | --- |
-| 2024 | Sigmund Freud, Mark Solms. [『프로이트 전집 표준판 개정본 (<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>)』](https://knpaca.kr/translation/rse24/index.html) 24권. |
+| 2025 | Jaak Panksepp, Lucy Biven. [『마음의 고고학 : 감정의 신경진화적 기원 (<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>)』](knpaca.kr/translation/2012-taom/index.html). |
+| 2024 | Sigmund Freud, Mark Solms. [『프로이트 전집 표준판 개정본 (<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>)』](knpaca.kr/translation/rse24/index.html) 24권. |
 
 :::: Translations - Collaborative Translation:::
 
