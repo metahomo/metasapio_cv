@@ -76,18 +76,18 @@
 | 2013 | [<i>Transactional Analysis (TA) Bibliography of Research: 1947-2012</i>](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003007652). Seoul: Purple (Kyobo Books). |
 | 1999 | [<i>Chart Missiology</i>](https://product.kyobobook.co.kr/detail/S000000589541). Seoul: The CLC. |
 
-:::: Translations - Exclusive Translation:::
-
-| Year | Contents |
-| --- | --- |
-| 2025 | Zefiro Mellacqua, [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ). Seoul: Hakjisa. |
-
 :::: Translations - Private Translation:::
 
 | Year | Contents |
 | --- | --- |
 | 2025 | Jaak Panksepp, Lucy Biven. 『[마음의 고고학 : 감정의 신경진화적 기원](http://knpaca.kr/translation/2012-taom/)』 ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)). |
 | 2024 | Sigmund Freud, Mark Solms. 『[프로이트 전집 표준판 개정본](http://knpaca.kr/translation/rse24/)』 ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권. |
+
+:::: Translations - PExclusive Translation:::
+
+| Year | Contents |
+| --- | --- |
+| 2025 | Zefiro Mellacqua, [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ). Seoul: Hakjisa. |
 
 :::: Translations - Collaborative Translation:::
 
