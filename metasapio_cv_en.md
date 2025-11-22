@@ -3,7 +3,7 @@
 | Name | Position |
 | --- | --- |
 | Phillip Y. Park | [Professor, Counseling, Graduate School of Education & Counseling, Midwest University](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
-| Ph.Ds. | Ph.D. in Psychology and Ph.D. in Counseling Psychology |
+| Phds. | Ph.D. in Psychology and Ph.D. in Counseling Psychology |
 | Email | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
 
 :::Degrees:::
