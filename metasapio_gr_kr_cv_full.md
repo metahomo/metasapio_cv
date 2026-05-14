@@ -47,7 +47,7 @@
 | 15.07.31 | [국제공인 NLP Trainer (NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
 | 12.06- | [한국교류분석상담학회 상담(12.06)·교육(14.02)·조직(13.11) 영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | 08.12.12 | 숲해설가 (국민대평생교육원: 20008504, 산림청) |
-| 08.10.27 | [라이프포밍 리더십 코이(LLC)](https://lifeformingcoach.com/) |
+| 08.10.27 | [라이프포밍 리더십 코치(LLC)](https://lifeformingcoach.com/) |
 | 06.08.28 | 사회복지사 2급(제2-93333호, 보건복지부) |
 | 05.10.06 | 국제공인 마인드맵 지도사 (Buzan Licensed Instructor)(국제부잔센터) |
 
@@ -65,43 +65,43 @@
 
 | 주/공 | 연도 | 제목 | 학회지 | 권/호/쪽 |
 | --- | --- | --- | --- | --- |
-| 주 | 2021.01 | Meta-analysis with R on the Effectiveness of Emotional Coaching Programs | 코칭연구 | 4(5): 77-104. |
-| 공 | 2021.12 | 간호사를 위한 교육프로그램의 효과에 관한 R메타분석 | 코칭연구 | 4(6): 91-118. |
-| 공 | 2014 | TACA형 자아상태 평정척도 개발 및 타당화 연구 | 교류분석상담연구 | 4 (2): 25-78. |
-| 공 | 2014 | TACA형 인생태도 평정척도 개발 및 타당화 연구 | 교류분석상담연구 | 4 (2): 125-163. |
+| 주 | 2021.01 | Meta-analysis with R on the Effectiveness of Emotional Coaching Programs | <i>코칭연구</i> | 4(5): 77-104. |
+| 공 | 2021.12 | 간호사를 위한 교육프로그램의 효과에 관한 R메타분석 | <i>코칭연구</i> | 4(6): 91-118. |
+| 공 | 2014 | TACA형 자아상태 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 25-78. |
+| 공 | 2014 | TACA형 인생태도 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 125-163. |
 
 
 ::: 저서(Books) :::
 
 | 연도 | 제목 | 출판사 |
 | --- | --- | --- |
-| 2015 | TA OK 코칭 | 경기도: 안양, 아카데미아. |
-| 2015 | 변화와 발전을 위한 교류분석 (TA) 코칭 모델의 이론과 실제 | 서울: 퍼플 (교보문고). |
-| 2013 | 교류분석 (TA) 참고문헌 연구 목록: 1947-2012년 | 서울: 퍼플 (교보문고). |
-| 1999 | 차트 선교학 | 서울: 기독교문서선교회. |
+| 2015 | <i>TA OK 코칭</i> | 경기도: 안양, 아카데미아. |
+| 2015 | <i>변화와 발전을 위한 교류분석 (TA) 코칭 모델의 이론과 실제</i> | 서울: 퍼플 (교보문고). |
+| 2013 | <i>교류분석 (TA) 참고문헌 연구 목록: 1947-2012년</i> | 서울: 퍼플 (교보문고). |
+| 1999 | <i>차트 선교학</i> | 서울: 기독교문서선교회. |
 
 
 ::: 단독 번역 (Sole Translation)  :::
 
-| 연도 | 저자 | 제목 | 출판사 |
-| --- | --- | --- | --- |
-| 2025 | Zefiro Mellacqua | [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ) | 학지사 |
+| 연도 | 저자 | 제목(한글) | 제목(영어) | 출판사 |
+| --- | --- | --- | --- | --- |
+| 2025 | Zefiro Mellacqua | [<i>조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제</i>](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) | [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ) | 학지사 |
 
 
 :::: 개인 번역 (Private Translations) :::
 
 |  연도 | 한글 제목 | 영어 제목 |
 | --- | --- | --- |
-| 2025 | Jaak Panksepp, Lucy Biven. 『[마음의 고고학 : 감정의 신경진화적 기원](http://knpaca.kr/translation/2012-taom/)』 | ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)). |
-| 2024 | Sigmund Freud, Mark Solms. 『[프로이트 전집 표준판 개정본](http://knpaca.kr/translation/rse24/)』 | ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권. |
+| 2025 | Jaak Panksepp, Lucy Biven. [<i>마음의 고고학 : 감정의 신경진화적 기원</i>](http://knpaca.kr/translation/2012-taom/)』 | ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)). |
+| 2024 | Sigmund Freud, Mark Solms. [<i>프로이트 전집 표준판 개정본</i>](http://knpaca.kr/translation/rse24/)』 | ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권. |
 
 
 ::: 공동 번역 (Co-translation)  :::
 
-| 출판연도 | 제목 | 출판사 |
-| --- | --- | --- |
-| 2019 | July Hay. (기업과 조직을 위한) 교류분석 상담. 안양: 아카데이아. |
-| 2015 | A. Mountain & C. Davidson. 기업과 조직을 살리는 교류분석. 서울: 학지사. |
-| 2015 | Mavis Klein. 교류분석 (TA) 접근을 통한 친밀한 관계. 안양: 아카데미아. |
-| 2014 | J.S. Horewitz. 가족치료와 교류분석. 안양: 아카데미아. |
-| 2013 | R. Erskine. 인생각본. 안양: 아카데미아. |
+| 출판연도 | 저자 | 제목 | 출판사 |
+| --- | --- | --- | --- |
+| 2019 | July Hay | <i>(기업과 조직을 위한) 교류분석 상담</i> | 안양: 아카데이아. |
+| 2015 | A. Mountain & C. Davidson | <i>기업과 조직을 살리는 교류분석</i> | 서울: 학지사. |
+| 2015 | Mavis Klein | <i>교류분석 (TA) 접근을 통한 친밀한 관계</i> | 안양: 아카데미아. |
+| 2014 | J.S. Horewitz | <i>가족치료와 교류분석</i> | 안양: 아카데미아. |
+| 2013 | R. Erskine | <i>인생각본</i> | 안양: 아카데미아. |
