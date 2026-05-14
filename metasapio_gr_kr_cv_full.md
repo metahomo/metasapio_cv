@@ -85,7 +85,7 @@
 
 | 연도 | 저자 | 제목(한글) | 제목(영어) | 출판사 |
 | --- | --- | --- | --- | --- |
-| 2025 | Zefiro Mellacqua | [<i>조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제</i>](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) | [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ) | 학지사 |
+| 2025 | Z. Mellacqua | [<i>조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제</i>](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) | [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ) | 학지사 |
 
 
 :::: 개인 번역 (Private Translations) :::
