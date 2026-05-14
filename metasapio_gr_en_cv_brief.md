@@ -3,24 +3,24 @@
 | Name | Position |
 | --- | --- |
 | Phillip Y. Park | [Professor, Counseling, Graduate School of Education & Counseling, Midwest University](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
-| Phds. | Ph.D. in Psychology and Ph.D. in Counseling Psychology |
+| Phds | Ph.D. in Psychology and Ph.D. in Counseling Psychology |
 | Email | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
 
-:::Degrees:::
+:::Degrees :::
 
-| * | School | Department (Major) | Title |
+| * | School | Major/Department | Degree |
 | --- | --- | --- | --- |
 | * | Daejeon University | Psychology, Department of Psychology | Ph.D. in Psychology |
 | * | Yemyeong Graduate University | The Division of Psychoanalysis Counseling | Ph.D. in Counseling Psychology |
-| * | Chungbuk National University | Forestry and Forest Environmental Studies | Ph.D. Candidate |
-| * | Yemyeong Graduate University | Counseling Psychology, School of Humanities and Social Sciences | M.A. |
+| * | Chungbuk University | Forestry and Forest Environmental Studies | Ph.D. Candidate |
+| * | Yemyeong Graduate University | Counseling Psychology, School of Humanities and Social Sciences | M.A |
 | * | University of Glamorgan (UK) | Modern Evangelical Theology | Th.M |
-| * | ACBS | Korean as Foreign Language | B.A. |
-| * | ACBS | Psychology | B.A. |
-| * | ACBS | Social Welfare | B.A. |
-| * | Kyung Hee Univ. | English Language &Literture | B.A. |
+| * | ACBS | Korean as Foreign Language | B.A |
+| * | ACBS | Psychology | B.A |
+| * | ACBS | Social Welfare | B.A |
+| * | Kyung Hee Univ | English Language &Literture | B.A |
 
-:::Qualifications and Training:::
+:::Qualifications and Training :::
 
 | * | Contents |
 | --- | --- |
@@ -29,9 +29,9 @@
 | * | [International Transactional Analysis Association(ITAA) Member](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18) |
 | * | [International Neuropsychoanalysis Society(NPSA) Member](https://npsa-association.org/) |
 | * | [CEO of Muamway Times](https://muamway.net) |
-| * | Conflict Mediator L1(KCMA Group, 2025-CM1-39) |
-| * | Forest Education Specialist) |
-| * | Korean Language Teacher Level 2 |
+| 25.06.14 | Conflict Mediator L1(KCMA Group, 2025-CM1-39) |
+| 23.09.20 | Forest Education Specialist(2023-1-17933) |
+| 23.04.28 | Korean Language Teacher L2(23-21-0928) |
 | * | [Transactional Analysis Master Coach(KTACA)](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | Lifelong Educator Level 2 (Ministry of Education) |
 | * | [Havruta Education Specialist, Havruta Education Association](https://cafe.naver.com/havrutaeducation/1993) |
@@ -45,56 +45,60 @@
 | * | Social Worker 2 Class (No. 2-93333, Ministry of Health and Welfare) |
 | * | Qulified Buzan Instructor (QBI, International Buzan Center) |
 
-::: Lecturer Qualifications:::
+::: Lecturer Qualifications :::
 
 | * | Department | Schools |
 | --- | --- | --- |
 | Former | Industrial & Advertizing Psychology | Deajeon University |
 | Former | The Division of Psychoanalysis Counseling | Yemyeong Graduate University |
 
-::: Thesis and Dissertation:::
+::: Thesis and Dissertation :::
 
-| Degree | Title |
-| --- | --- |
-| Doctor | [<i>The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Ph.D. in Pschology. 2023, Daejeon University. Daejeon, Korea. |
-| Doctor | [<i>The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo). Ph.D. in Counseling Psychology. 2021, Yemyung Graduate University. Seoul, Korea. |
-| Master | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology</i>. Master of Theology. 1999, University of Glamorgan. Wales, United Kingdom. |
+| Degree | Year | Title | School |
+| --- | --- | --- | --- |
+| Ph.D. in Pschology | 2023 | [<i>The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=) | Daejeon University. Daejeon, Korea |
+| Ph.D. in Counseling Psychology | 2021 | [<i>The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo) | Yemyung Graduate University. Seoul, Korea |
+| Th.M | 2000 | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology</i> | University of Glamorgan. Wales, UK |
 
-::: Academic Journals:::
+::: Academic Journals :::
 
-| Title |
-| --- |
-| [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). <i>Coaching Research</i>, 2021, 4 (5): 77-104. |
-| [Meta-analysis with R on the Effectiveness of Educational Programs for Nurses](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). <i>Coaching Research</i>, 2021, 4 (6): 91-118. |
-| [Development and Validation of the TACA-type Ego-states Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). TACR</i>, 2014, 4 (2): 25-78. |
-| [Development and Validation of the TACA-type Life Position Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). <i>TACR</i>, 2014, 4 (2): 125-163. |
+| Year | Title | Volume/Issue/Page |
+| --- | --- | --- |
+| 2021 | [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=) | <i>Coaching Research</i> | 4 (5): 77-104 |
+| 2021 | [Meta-analysis with R on the Effectiveness of Educational Programs for Nurses](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=) | <i>Coaching Research</i> | 4 (6): 91-118 |
+| 2014 | [Development and Validation of the TACA-type Ego-states Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) | <i>TACR</i> | 4 (2): 25-78 |
+| 2014 | [Development and Validation of the TACA-type Life Position Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC) | <i>TACR</i> | 4 (2): 125-163 |
 
-::: Books:::
+::: Books :::
 
-| Year | Contents |
-| --- | --- |
-| 2015 | [<i>TA OK Coaching</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=d7345961987b50bf&control_no=de34df5c136fc1f6ffe0bdc3ef48d419&keyword=). Kyunggi: Anyang, Academia. |
-| 2015 | [<i>Theory and Practice of the Transactional Analysis (TA) Coaching Model for Change and Development</i>](https://product.kyobobook.co.kr/detail/S000060601325). Seoul: Purple (Kyobo Books). |
-| 2015 | [<i>Mind Mapping & Chart Series 1. Buddhist Overview That Ends at Once</i>](https://product.kyobobook.co.kr/detail/S000060601354). Kyobo: Purple. |
-| 2013 | [<i>Transactional Analysis (TA) Bibliography of Research: 1947-2012</i>](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003007652). Seoul: Purple (Kyobo Books). |
-| 1999 | [<i>Chart Missiology</i>](https://product.kyobobook.co.kr/detail/S000000589541). Seoul: The CLC. |
+| Year | Title | Publisher |
+| --- | --- | --- |
+| 2015 | [<i>TA OK Coaching</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=d7345961987b50bf&control_no=de34df5c136fc1f6ffe0bdc3ef48d419&keyword=) | Kyunggi: Anyang, Academia |
+| 2015 | [<i>Theory and Practice of the Transactional Analysis (TA) Coaching Model for Change and Development</i>](https://product.kyobobook.co.kr/detail/S000060601325) | Seoul: Purple (Kyobo Books) |
+| 2015 | [<i>Mind Mapping & Chart Series 1. Buddhist Overview That Ends at Once</i>](https://product.kyobobook.co.kr/detail/S000060601354) | Kyobo: Purple |
+| 2013 | [<i>Transactional Analysis (TA) Bibliography of Research: 1947-2012</i>](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003007652) | Seoul: Purple (Kyobo Books) |
+| 1999 | [<i>Chart Missiology</i>](https://product.kyobobook.co.kr/detail/S000000589541) | Seoul: The CLC |
 
-:::: Translations - Private Translation:::
 
-| Year | Contents |
-| --- | --- |
-| 2025 | Jaak Panksepp, Lucy Biven. 『[마음의 고고학 : 감정의 신경진화적 기원](http://knpaca.kr/translation/2012-taom/)』 ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)). |
-| 2024 | Sigmund Freud, Mark Solms. 『[프로이트 전집 표준판 개정본](http://knpaca.kr/translation/rse24/)』 ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권. |
+::: Sole Translation :::
 
-:::: Translations - Exclusive Translation:::
+| Year | Author | Title (Kr) | Title (En) | Publisher |
+| --- | --- | --- | --- | --- |
+| 2025 | Zefiro Mellacqua | [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) | [<i>TA of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ) | Seoul: Hakjisa |
 
-| Year | Contents |
-| --- | --- |
-| 2025 | Zefiro Mellacqua, [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ). Seoul: Hakjisa. |
+::: Translations - Collaborative Translation :::
 
-:::: Translations - Collaborative Translation:::
+| Year | Author | Title (Kr) | Title (En) | Publisher |
+| --- | --- | --- | --- | --- |
+| 2019 | July Hay | [<i>(기업과 조직을 위한) 교류분석 상담</i>](https://product.kyobobook.co.kr/detail/S000000896704) | [<i>Transactional Analysis Consultation for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000000896704) |  | Anyang: Arcadeia |
+| 2015 | A. Mountain & C. Davidson. | [<i>기업과 조직을 살리는 교류분석</i>](https://product.kyobobook.co.kr/detail/S000001642587) | [<i>Transactional Analysis for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000001642587) | | Seoul: Hakji |
+| 2015 | Mavis Klein | [<i>교류분석(TA) 접근을 통한 친밀한 관계</i>](https://academya.co.kr/?pageid=2&page_id=1942&mod=document&category1=%EA%B5%90%EB%A5%98%EB%B6%84%EC%84%9D%28TA%29&uid=250) | | Anyang: Academia |
+| 2014 | J.S. Horewitz | [<i>가족치료와 교류분석</i>](https://academya.co.kr/?pageid=3&page_id=1942&mod=document&category1=%EA%B5%90%EB%A5%98%EB%B6%84%EC%84%9D%28TA%29&uid=158) | | Anyang: Academia |
+| 2013 | R. Erskine | [<i>인생각본</i>](https://academya.co.kr/?pageid=3&page_id=1942&mod=document&category1=%EA%B5%90%EB%A5%98%EB%B6%84%EC%84%9D%28TA%29&uid=156) | | Anyang: Academia |
 
-| Year | Contents |
-| --- | --- |
-| 2019 | July Hay. [<i>Transactional Analysis Consultation for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000000896704). Anyang: Arcadeia. |
-| 2015 | A. Mountain & C. Davidson. [<i>Transactional Analysis for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000001642587). Seoul: Hakji. |
+::: Private Translation :::
+
+| Year | Authors | Title (Kr) | Title (En) |
+| --- | --- | --- | --- |
+| 2025 | Jaak Panksepp, Lucy Biven | [마음의 고고학 : 감정의 신경진화적 기원](http://knpaca.kr/translation/2012-taom/) | ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5) |
+| 2024 | Sigmund Freud, Mark Solms | [프로이트 전집 표준판 개정본](http://knpaca.kr/translation/rse24/) | ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/) 24권 |
