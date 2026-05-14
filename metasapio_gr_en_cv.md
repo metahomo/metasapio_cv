@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | * | Daejeon University | Psychology, Department of Psychology | Ph.D. in Psychology |
 | * | Yemyeong Graduate University | The Division of Psychoanalysis Counseling | Ph.D. in Counseling Psychology |
-| * | Chungbuk University | Forestry and Forest Environmental Studies | Ph.D. Candidate |
+| * | Chungbuk National University | Forestry and Forest Environmental Studies | Ph.D. Candidate |
 | * | Yemyeong Graduate University | Counseling Psychology, School of Humanities and Social Sciences | M.A. |
 | * | University of Glamorgan (UK) | Modern Evangelical Theology | Th.M |
 | * | ACBS | Korean as Foreign Language | B.A. |
