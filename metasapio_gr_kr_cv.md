@@ -11,43 +11,53 @@
 
 | 연도 | 학교 | 학과(전공) | 학위기 |
 | --- | --- | --- | --- |
-| 18.03~23.08 | 대전대학교대학원 | 심리학과 심리학 전공 | 심리학박사(대전대2022(박)-056) |
+| 18.03~23.08 | 대전대학교 대학원 | 심리학과 심리학 전공 | 심리학박사(대전대2022(박)-056) |
 | 16.03~20.02 | 예명대학원대학교 | 인문사회학부 상담심리학 전공 | 상담심리학박사(예명대(박)-47) |
-| 09.03~11.08 | 충북대학교대학원 | 산림학과 산림환경학 전공 | 박사과정 수료 |
+| 09.03~11.08 | 충북대학교 대학원 | 산림학과 산림환경학 전공 | 박사과정 수료 |
 | 20.03~21.02 | 예명대학원대학교 | 인문사회학부 정신분석상담 전공 | 정신분석상담학석사(예명대(석)-366) |
 | 97.09~00.06 | University of Glamorgan(UK) | Modern Evangelical Theology | Th.M(97001910) |
-| 92.03~94.02 | 아세아연합신학대학교 | 교회사 | 석사과정 제적 |
+| 92.03~94.02 | 아세아연합신학대학교 | 역사신학 | 석사과정 수료 |
 | 20.03~23.02 | 학점은행제 | 외국어로서의 한국어학 전공 | B.A.(학점-2023-학-015269) |
 | 05.02~19.02 | 학점은행제 | 심리학 | B.A.(학점-2019-학-009699) |
 | 05.09~07.02 | 학점은행제 | 사회복지학 | B.A.(학점-2007-학-38437) |
 | 80.03~85.02 | 경희대학교 | 영어영문학 | B.A.(1984-나-54357) |
 
 
+::: 대학교 강의 경력 사항 :::
+
+| 연도 | 학과 | 대학교 |
+| --- | --- | --- |
+| Former | 산업심리학과 | 대전대학교 |
+| 21.03~21.06 | 인문사회학부 정신분석상담 전공 | 예명대학원대학교 |
+
+
 ::: 자격 및 훈련 :::
 
-| 23.04 | 한국어교원 2급 자격 예정 |
+| 연도 | 명칭 |
 | --- | --- |
-| 22.04.04 | 교류분석마스터코치(한국교류분석상담학회) |
+| * | [미국심리학회(APA) 정회원](https://directory.apa.org/MemDirProfile?rid=phillip-park-347) |
+| * | [국제교류분석학회(ITAA) 정회원](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18) |
+| * | [국제정신분석학회(NPSA) 정회원](https://npsa-association.org/) |
+| * | [뫔길다문화심리교육신문 대표](https://muamway.net) |
+| 23.04 | 한국어교원 2급 자격 예정 |
+| 22.04.04 | [교류분석마스터코치(한국교류분석상담학회)](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | 18.11.30 | 평생교육사 2급 (제N2-18-6298호, 교육부) |
-| 18.11.11 | 하브루타교육전문가 (자격이수번호: 2018-00-013, 하브루타교육협회) |
-| 18.11.11 | 하브루타교육사 1급 (자격이수번호: 2018-01-0012, 하브루타교육협회) |
-| 15.07.31 | 국제공인 NLP Trainer (NLPU) |
-| 12.06- | 한국교류분석상담학회 상담(12.06)·교육(14.02)·조직(13.11) 영역 수련감독 |
+| 18.11.11 | [하브루타교육전문가 (자격이수번호: 2018-00-013, 하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
+| 18.11.11 | [하브루타교육사 1급 (자격이수번호: 2018-01-0012, 하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
+| 15.07.31 | [국제공인 NLP Trainer (NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
+| 12.06- | [한국교류분석상담학회 상담(12.06)·교육(14.02)·조직(13.11) 영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | 08.12.12 | 숲해설가 (국민대평생교육원: 20008504, 산림청) |
-| 08.10.27 | Lifeforming Leadership Coach (LLC) |
+| 08.10.27 | [라이프포밍 리더십 코이(LLC)](https://lifeformingcoach.com/) |
 | 06.08.28 | 사회복지사 2급(제2-93333호, 보건복지부) |
 | 05.10.06 | 국제공인 마인드맵 지도사 (Buzan Licensed Instructor)(국제부잔센터) |
-| 경력 사항 |
-| 20.09~22.07 | 예명대학원대학교 인문사회학부 정신분석상담 전공 강사(연구방법론, 출강: 21.03.02~21.06.08) |
-| 06.03~18.01 | (주)알파코 강평위원 (첨삭지도사) |
 
 
 ::: 저서/역서 :::
 
-| 구분 | 연도 | 제목 |
-| --- | --- | --- |
-| 학위 | 2020 | The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019. Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea. |
-| 논문 | 1999 | An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom. |
+| 구분 | 연도 | 제목 | 수여학교 |
+| --- | --- | --- | --- |
+| Ph.D. in Counseling Psychology | 2020 | The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019 | Yemyung Graduate University. Seoul, Korea. |
+| Th.M | 1999 | An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology | University of Glamorgan. Wales, United Kingdom. |
 
 
 ::: 연구논문(Journal Articles) :::
