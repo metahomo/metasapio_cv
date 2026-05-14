@@ -4,7 +4,7 @@
 | --- | --- |
 | 박필립 | [교수, 상담학과, 교육&상담대학원, Midwest 대학교](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
 | 박사학위 | 심리학 박사 (Ph.D. in Psychology) |
-|  | 상담심리학 박사 (Ph.D. in Counseling Psychology) |
+| | 상담심리학 박사 (Ph.D. in Counseling Psychology) |
 | 이메일 | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
 
 ::: 학력 사항 :::
@@ -58,30 +58,30 @@
 | --- | --- | --- | --- |
 | 심리학박사 | 2023 | [<i>The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=) | 대전대학교 |
 | 상담심리학박사 | 2020 | [<i>The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo) | 예명대학원대학교 |
-| Th.M | 1999 | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology</i> | University of Glamorgan. Wales, United Kingdom. |
+| Th.M | 1999 | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology</i> | University of Glamorgan. Wales, United Kingdom |
 
 
 ::: 연구논문(Journal Articles) :::
 
 | 주/공 | 연도 | 제목 | 학회지 | 권/호/쪽 |
 | --- | --- | --- | --- | --- |
-| 주 | 2021.01 | Meta-analysis with R on the Effectiveness of Emotional Coaching Programs | <i>코칭연구</i> | 4(5): 77-104. |
-| 공 | 2021.12 | 간호사를 위한 교육프로그램의 효과에 관한 R메타분석 | <i>코칭연구</i> | 4(6): 91-118. |
-| 공 | 2014 | TACA형 자아상태 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 25-78. |
-| 공 | 2014 | TACA형 인생태도 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 125-163. |
+| 주 | 2021.01 | Meta-analysis with R on the Effectiveness of Emotional Coaching Programs | <i>코칭연구</i> | 4(5): 77-104 |
+| 공 | 2021.12 | 간호사를 위한 교육프로그램의 효과에 관한 R메타분석 | <i>코칭연구</i> | 4(6): 91-118 |
+| 공 | 2014 | TACA형 자아상태 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 25-78 |
+| 공 | 2014 | TACA형 인생태도 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 125-163 |
 
 
 ::: 저서(Books) :::
 
 | 연도 | 제목 | 출판사 |
 | --- | --- | --- |
-| 2015 | <i>TA OK 코칭</i> | 경기도: 안양, 아카데미아. |
-| 2015 | <i>변화와 발전을 위한 교류분석 (TA) 코칭 모델의 이론과 실제</i> | 서울: 퍼플 (교보문고). |
-| 2013 | <i>교류분석 (TA) 참고문헌 연구 목록: 1947-2012년</i> | 서울: 퍼플 (교보문고). |
-| 1999 | <i>차트 선교학</i> | 서울: 기독교문서선교회. |
+| 2015 | <i>TA OK 코칭</i> | 경기도: 안양, 아카데미아 |
+| 2015 | <i>변화와 발전을 위한 교류분석 (TA) 코칭 모델의 이론과 실제</i> | 서울: 퍼플 (교보문고) |
+| 2013 | <i>교류분석 (TA) 참고문헌 연구 목록: 1947-2012년</i> | 서울: 퍼플 (교보문고) |
+| 1999 | <i>차트 선교학</i> | 서울: 기독교문서선교회 |
 
 
-::: 단독 번역 (Sole Translation)  :::
+::: 단독 번역 (Sole Translation) :::
 
 | 연도 | 저자 | 제목(한글) | 제목(영어) | 출판사 |
 | --- | --- | --- | --- | --- |
@@ -90,18 +90,18 @@
 
 :::: 개인 번역 (Private Translations) :::
 
-|  연도 | 한글 제목 | 영어 제목 |
+| 연도 | 저자 | 한글 제목 | 영어 제목 |
 | --- | --- | --- |
-| 2025 | Jaak Panksepp, Lucy Biven. [<i>마음의 고고학 : 감정의 신경진화적 기원</i>](http://knpaca.kr/translation/2012-taom/)』 | ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)). |
-| 2024 | Sigmund Freud, Mark Solms. [<i>프로이트 전집 표준판 개정본</i>](http://knpaca.kr/translation/rse24/)』 | ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권. |
+| 2025 | Jaak Panksepp, Lucy Biven | [<i>마음의 고고학 : 감정의 신경진화적 기원</i>](http://knpaca.kr/translation/2012-taom/)』 | ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)) |
+| 2024 | Sigmund Freud, Mark Solms | [<i>프로이트 전집 표준판 개정본</i>](http://knpaca.kr/translation/rse24/)』 | ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권 |
 
 
-::: 공동 번역 (Co-translation)  :::
+::: 공동 번역 (Co-translation) :::
 
 | 출판연도 | 저자 | 제목 | 출판사 |
 | --- | --- | --- | --- |
-| 2019 | July Hay | <i>(기업과 조직을 위한) 교류분석 상담</i> | 안양: 아카데이아. |
-| 2015 | A. Mountain & C. Davidson | <i>기업과 조직을 살리는 교류분석</i> | 서울: 학지사. |
-| 2015 | Mavis Klein | <i>교류분석 (TA) 접근을 통한 친밀한 관계</i> | 안양: 아카데미아. |
-| 2014 | J.S. Horewitz | <i>가족치료와 교류분석</i> | 안양: 아카데미아. |
-| 2013 | R. Erskine | <i>인생각본</i> | 안양: 아카데미아. |
+| 2019 | July Hay | <i>(기업과 조직을 위한) 교류분석 상담</i> | 안양: 아카데이아 |
+| 2015 | A. Mountain & C. Davidson | <i>기업과 조직을 살리는 교류분석</i> | 서울: 학지사 |
+| 2015 | Mavis Klein | <i>교류분석 (TA) 접근을 통한 친밀한 관계</i> | 안양: 아카데미아 |
+| 2014 | J.S. Horewitz | <i>가족치료와 교류분석</i> | 안양: 아카데미아 |
+| 2013 | R. Erskine | <i>인생각본</i> | 안양: 아카데미아 |
