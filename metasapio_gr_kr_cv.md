@@ -1,97 +1,59 @@
-### Prof. Drs. Phillip Y. Park's Curriculum Vitae ###
+### 박필립 이력서 ###
 
-| Name | Position |
+| 이름 | 직위 |
 | --- | --- |
-| Phillip Y. Park | [Professor, Counseling, Graduate School of Education & Counseling, Midwest University](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
-| Phds. | Ph.D. in Psychology and Ph.D. in Counseling Psychology |
-| Email | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
+| 박필립 | [교수, 상담학과, 교육&상담대학원, Midwest 대학교](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
+| 박사학위 | 심리학 박사 (Ph.D. in Psychology) |
+| 박사학위 | 상담심리학 박사 (Ph.D. in Counseling Psychology) |
+| 이메일 | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
 
-:::Degrees:::
+::: 학력 사항 :::
 
-| * | School | Department (Major) | Title |
-| --- | --- | --- | --- |
-| * | Daejeon University | Psychology, Department of Psychology | Ph.D. in Psychology |
-| * | Yemyeong Graduate University | The Division of Psychoanalysis Counseling | Ph.D. in Counseling Psychology |
-| * | Chungbuk University | Forestry and Forest Environmental Studies | Ph.D. Candidate |
-| * | Yemyeong Graduate University | Counseling Psychology, School of Humanities and Social Sciences | M.A. |
-| * | University of Glamorgan (UK) | Modern Evangelical Theology | Th.M |
-| * | ACBS | Korean as Foreign Language | B.A. |
-| * | ACBS | Psychology | B.A. |
-| * | ACBS | Social Welfare | B.A. |
-| * | Kyung Hee Univ. | English Language &Literture | B.A. |
+|연도|학교|학과(전공)|학위기|
+|18.03~23.08|대전대학교대학원|심리학과 심리학 전공|심리학박사(대전대2022(박)-056)|
+|16.03~20.02|예명대학원대학교|인문사회학부 상담심리학 전공|상담심리학박사(예명대(박)-47)|
+|09.03~11.08|충북대학교대학원|산림학과 산림환경학 전공|박사과정 수료|
+|20.03~21.02|예명대학원대학교|인문사회학부 정신분석상담 전공|정신분석상담학석사(예명대(석)-366)|
+|97.09~00.06|University of Glamorgan(UK)|Modern Evangelical Theology|Th.M(97001910)|
+|92.03~94.02|아세아연합신학대학교|교회사|석사과정 제적|
+|20.03~23.02|학점은행제|외국어로서의 한국어학 전공|B.A.(학점-2023-학-015269)|
+|05.02~19.02|학점은행제|심리학|B.A.(학점-2019-학-009699)|
+|05.09~07.02|학점은행제|사회복지학|B.A.(학점-2007-학-38437)|
+|80.03~85.02|경희대학교|영어영문학|B.A.(1984-나-54357)|
 
-:::Qualifications and Training:::
 
-| * | Contents |
-| --- | --- |
-| * | [Professor, Midwest University (Counseling, Graduate School of Education & Counseling)](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
-| * | [American Psychological Association (APA) Member](https://directory.apa.org/MemDirProfile?rid=phillip-park-347) |
-| * | [International Transactional Analysis Association(ITAA) Member](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18) |
-| * | [International Neuropsychoanalysis Society(NPSA) Member](https://npsa-association.org/) |
-| * | [CEO of Muamway Times](https://muamway.net) |
-| * | [Korea Transactional Analysis and Counseling Association,Transactional Analysis Master Coach](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| * | Lifelong Educator Level 2 (Ministry of Education) |
-| * | [Havruta Education Specialist, Havruta Education Association](https://cafe.naver.com/havrutaeducation/1993) |
-| * | [Havruta Educator Level 1, Havruta Education Association)](https://cafe.naver.com/havrutaeducation/1993) |
-| * | [International Certified NLP Trainer (NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
-| * | [Korean Transactional Analysis Counseling Association Supervisor in Education](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%C0%B0%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| * | [Korean Transactional Analysis Counseling Association Master Trainer in Organization](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%C1%B6%C1%F7%BF%B5%BF%AAMasterTrainer&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| * | [Korean Transactional Analysis Counseling Association Supervisor in Counseling](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| * | Forest Interpreters (Kookmin University: 20008504, Forest Service) |
-| * | [Lifeforming Leadership Coach, LLC](https://lifeformingcoach.com/) |
-| * | Social Worker 2 Class (No. 2-93333, Ministry of Health and Welfare) |
-| * | Qulified Buzan Instructor (QBI, International Buzan Center) |
+::: 자격 및 훈련 :::
 
-::: Lecturer Qualifications:::
+|23.04|한국어교원 2급 자격 예정|
+|22.04.04|교류분석마스터코치(한국교류분석상담학회)|
+|18.11.30|평생교육사 2급 (제N2-18-6298호, 교육부)|
+|18.11.11|하브루타교육전문가 (자격이수번호: 2018-00-013, 하브루타교육협회)|
+|18.11.11|하브루타교육사 1급 (자격이수번호: 2018-01-0012, 하브루타교육협회)|
+|15.07.31|국제공인 NLP Trainer (NLPU)|
+|12.06-|한국교류분석상담학회 상담(12.06)·교육(14.02)·조직(13.11) 영역 수련감독|
+|08.12.12|숲해설가 (국민대평생교육원: 20008504, 산림청)|
+|08.10.27|Lifeforming Leadership Coach (LLC)|
+|06.08.28|사회복지사 2급(제2-93333호, 보건복지부)|
+|05.10.06|국제공인 마인드맵 지도사 (Buzan Licensed Instructor)(국제부잔센터)|
+|경력 사항|
+|20.09~22.07|예명대학원대학교 인문사회학부 정신분석상담 전공 강사(연구방법론, 출강: 21.03.02~21.06.08)|
+|06.03~18.01|(주)알파코 강평위원 (첨삭지도사)|
 
-| * | Department | Schools |
-| --- | --- | --- |
-| Former | Industrial & Advertizing Psychology | Deajeon University |
-| Former | The Division of Psychoanalysis Counseling | Yemyeong Graduate University |
 
-::: Thesis and Dissertation:::
+::: 저서/역서 :::
 
-| Degree | Title |
-| --- | --- |
-| Doctor | [<i>The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=). Ph.D. in Pschology. 2023, Daejeon University. Daejeon, Korea. |
-| Doctor | [<i>The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo). Ph.D. in Counseling Psychology. 2021, Yemyung Graduate University. Seoul, Korea. |
-| Master | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology</i>. Master of Theology. 1999, University of Glamorgan. Wales, United Kingdom. |
-
-::: Academic Journals:::
-
-| Title |
-| --- |
-| [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b373ff582345d4c37f7a54760bb41745&keyword=). <i>Coaching Research</i>, 2021, 4 (5): 77-104. |
-| [Meta-analysis with R on the Effectiveness of Educational Programs for Nurses](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=56f597fd60b258b7b36097776a77e665&keyword=). <i>Coaching Research</i>, 2021, 4 (6): 91-118. |
-| [Development and Validation of the TACA-type Ego-states Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445818&artlNum=10304397&artlName=TACA%ED%98%95%20%EC%9E%90%EC%95%84%EC%83%81%ED%83%9C%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). TACR</i>, 2014, 4 (2): 25-78. |
-| [Development and Validation of the TACA-type Life Position Scale](https://scholar.kyobobook.co.kr/file/view?downOrView=pdf&schlrCmdtcode=4050025445780&artlNum=10304400&artlName=TACA%ED%98%95%20%EC%9D%B8%EC%83%9D%ED%83%9C%EB%8F%84%20%ED%8F%89%EC%A0%95%EC%B2%99%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%ED%83%80%EB%8B%B9%ED%99%94%20%EC%97%B0%EA%B5%AC). <i>TACR</i>, 2014, 4 (2): 125-163. |
-
-::: Books:::
-
-| Year | Contents |
-| --- | --- |
-| 2015 | [<i>TA OK Coaching</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=d7345961987b50bf&control_no=de34df5c136fc1f6ffe0bdc3ef48d419&keyword=). Kyunggi: Anyang, Academia. |
-| 2015 | [<i>Theory and Practice of the Transactional Analysis (TA) Coaching Model for Change and Development</i>](https://product.kyobobook.co.kr/detail/S000060601325). Seoul: Purple (Kyobo Books). |
-| 2015 | [<i>Mind Mapping & Chart Series 1. Buddhist Overview That Ends at Once</i>](https://product.kyobobook.co.kr/detail/S000060601354). Kyobo: Purple. |
-| 2013 | [<i>Transactional Analysis (TA) Bibliography of Research: 1947-2012</i>](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003007652). Seoul: Purple (Kyobo Books). |
-| 1999 | [<i>Chart Missiology</i>](https://product.kyobobook.co.kr/detail/S000000589541). Seoul: The CLC. |
-
-:::: Translations - Private Translation:::
-
-| Year | Contents |
-| --- | --- |
-| 2025 | Jaak Panksepp, Lucy Biven. 『[마음의 고고학 : 감정의 신경진화적 기원](http://knpaca.kr/translation/2012-taom/)』 ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)). |
-| 2024 | Sigmund Freud, Mark Solms. 『[프로이트 전집 표준판 개정본](http://knpaca.kr/translation/rse24/)』 ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권. |
-
-:::: Translations - Exclusive Translation:::
-
-| Year | Contents |
-| --- | --- |
-| 2025 | Zefiro Mellacqua, [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ). Seoul: Hakjisa. |
-
-:::: Translations - Collaborative Translation:::
-
-| Year | Contents |
-| --- | --- |
-| 2019 | July Hay. [<i>Transactional Analysis Consultation for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000000896704). Anyang: Arcadeia. |
-| 2015 | A. Mountain & C. Davidson. [<i>Transactional Analysis for Businesses and Organizations</i>](https://product.kyobobook.co.kr/detail/S000001642587). Seoul: Hakji. |
+|학위|2020|The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019. Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea.|
+|논문|1999|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom.|
+|연구|주|2021.1|Meta-analysis with R on the Effectiveness of Emotional Coaching Programs. 코칭연구, 4(5): 77-104.|
+|논문|공|2021.12|간호사를 위한 교육프로그램의 효과에 관한 R메타분석. 코칭연구, 4(6): 91-118.|
+|2014|TACA형 자아상태 평정척도 개발 및 타당화 연구. 교류분석상담연구, 4 (2): 25-78.|
+|2014|TACA형 인생태도 평정척도 개발 및 타당화 연구. 교류분석상담연구, 4 (2): 125-163.|
+|저서|2015|TA OK 코칭. 경기도: 안양, 아카데미아.|
+|2015|변화와 발전을 위한 교류분석 (TA) 코칭 모델의 이론과 실제. 서울: 퍼플 (교보문고).|
+|2013|교류분석 (TA) 참고문헌 연구 목록: 1947-2012년. 서울: 퍼플 (교보문고).|
+|1999|차트 선교학. 서울: 기독교문서선교회.|
+|공역|2019|July Hay. (기업과 조직을 위한) 교류분석 상담. 안양: 아카데이아.|
+|2015|A. Mountain & C. Davidson. 기업과 조직을 살리는 교류분석. 서울: 학지사.|
+|2015|Mavis Klein. 교류분석 (TA) 접근을 통한 친밀한 관계. 안양: 아카데미아.|
+|2014|J.S. Horewitz. 가족치료와 교류분석. 안양: 아카데미아.|
+|2013|R. Erskine. 인생각본. 안양: 아카데미아.|
