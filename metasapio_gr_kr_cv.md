@@ -10,6 +10,7 @@
 ::: 학력 사항 :::
 
 |연도|학교|학과(전공)|학위기|
+| --- | --- | --- | --- |
 |18.03~23.08|대전대학교대학원|심리학과 심리학 전공|심리학박사(대전대2022(박)-056)|
 |16.03~20.02|예명대학원대학교|인문사회학부 상담심리학 전공|상담심리학박사(예명대(박)-47)|
 |09.03~11.08|충북대학교대학원|산림학과 산림환경학 전공|박사과정 수료|
@@ -25,6 +26,7 @@
 ::: 자격 및 훈련 :::
 
 |23.04|한국어교원 2급 자격 예정|
+| --- | --- |
 |22.04.04|교류분석마스터코치(한국교류분석상담학회)|
 |18.11.30|평생교육사 2급 (제N2-18-6298호, 교육부)|
 |18.11.11|하브루타교육전문가 (자격이수번호: 2018-00-013, 하브루타교육협회)|
@@ -42,12 +44,27 @@
 
 ::: 저서/역서 :::
 
+| 구분 | 연도 | 제목 |
+| --- | --- | --- |
 |학위|2020|The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019. Ph.D. in Counseling Psychology. Yemyung Graduate University. Seoul, Korea.|
 |논문|1999|An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology. University of Glamorgan. Wales, United Kingdom.|
+
+
+::: 연구논문(Journal Articles) :::
+
+| 구분 | 주/공 | 연도 | 제목 |
+| --- | --- | --- | --- |
 |연구|주|2021.1|Meta-analysis with R on the Effectiveness of Emotional Coaching Programs. 코칭연구, 4(5): 77-104.|
 |논문|공|2021.12|간호사를 위한 교육프로그램의 효과에 관한 R메타분석. 코칭연구, 4(6): 91-118.|
 |2014|TACA형 자아상태 평정척도 개발 및 타당화 연구. 교류분석상담연구, 4 (2): 25-78.|
 |2014|TACA형 인생태도 평정척도 개발 및 타당화 연구. 교류분석상담연구, 4 (2): 125-163.|
+
+
+::: 저서/역서 :::
+
+| 구분 | 연도 | 제목 |
+| --- | --- | --- |
+
 |저서|2015|TA OK 코칭. 경기도: 안양, 아카데미아.|
 |2015|변화와 발전을 위한 교류분석 (TA) 코칭 모델의 이론과 실제. 서울: 퍼플 (교보문고).|
 |2013|교류분석 (TA) 참고문헌 연구 목록: 1947-2012년. 서울: 퍼플 (교보문고).|
