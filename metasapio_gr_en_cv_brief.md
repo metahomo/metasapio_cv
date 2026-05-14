@@ -29,7 +29,10 @@
 | * | [International Transactional Analysis Association(ITAA) Member](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18) |
 | * | [International Neuropsychoanalysis Society(NPSA) Member](https://npsa-association.org/) |
 | * | [CEO of Muamway Times](https://muamway.net) |
-| * | [Korea Transactional Analysis and Counseling Association,Transactional Analysis Master Coach](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
+| *  Conflict Mediator L1(KCMA Group, 2025-CM1-39) |
+| * | Forest Education Specialist(2023-1-17933) |
+| * | Korean Language Teacher L2(23-21-0928) |
+| * | [Transactional Analysis Master Coach(KTACA)](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
 | * | Lifelong Educator Level 2 (Ministry of Education) |
 | * | [Havruta Education Specialist, Havruta Education Association](https://cafe.naver.com/havrutaeducation/1993) |
 | * | [Havruta Educator Level 1, Havruta Education Association)](https://cafe.naver.com/havrutaeducation/1993) |
