@@ -52,12 +52,13 @@
 | 05.10.06 | 국제공인 마인드맵 지도사 (Buzan Licensed Instructor)(국제부잔센터) |
 
 
-::: 저서/역서 :::
+::: 학위논문(Dissertation & Thesis) :::
 
 | 구분 | 연도 | 제목 | 수여학교 |
 | --- | --- | --- | --- |
-| Ph.D. in Counseling Psychology | 2020 | The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019 | Yemyung Graduate University. Seoul, Korea. |
-| Th.M | 1999 | An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology | University of Glamorgan. Wales, United Kingdom. |
+| 심리학박사 | 2023 | [<i>The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=) | 대전대학교 |
+| 상담심리학박사 | 2020 | [<i>The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo) | 예명대학원대학교 |
+| Th.M | 1999 | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology. Master of Theology</i> | University of Glamorgan. Wales, United Kingdom. |
 
 
 ::: 연구논문(Journal Articles) :::
@@ -74,7 +75,6 @@
 
 | 연도 | 제목 | 출판사 |
 | --- | --- | --- |
-
 | 2015 | TA OK 코칭 | 경기도: 안양, 아카데미아. |
 | 2015 | 변화와 발전을 위한 교류분석 (TA) 코칭 모델의 이론과 실제 | 서울: 퍼플 (교보문고). |
 | 2013 | 교류분석 (TA) 참고문헌 연구 목록: 1947-2012년 | 서울: 퍼플 (교보문고). |
@@ -83,8 +83,17 @@
 
 ::: 단독 번역 (Sole Translation)  :::
 
-| 연도 | 제목 | 출판사 |
+| 연도 | 저자 | 제목 | 출판사 |
+| --- | --- | --- | --- |
+| 2025 | Zefiro Mellacqua | [조현병 치료를 위한 교류분석(TA) 상담의 이론과 실제](https://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=6292) [<i>Transactional Analysis of Schizophrenia: The Naked Self</i>](https://amazon.com/dp/B089QW2SKQ) | 학지사 |
+
+
+:::: 개인 번역 (Private Translations) :::
+
+|  연도 | 한글 제목 | 영어 제목 |
 | --- | --- | --- |
+| 2025 | Jaak Panksepp, Lucy Biven. 『[마음의 고고학 : 감정의 신경진화적 기원](http://knpaca.kr/translation/2012-taom/)』 | ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)). |
+| 2024 | Sigmund Freud, Mark Solms. 『[프로이트 전집 표준판 개정본](http://knpaca.kr/translation/rse24/)』 | ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권. |
 
 
 ::: 공동 번역 (Co-translation)  :::
