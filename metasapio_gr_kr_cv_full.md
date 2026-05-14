@@ -91,7 +91,7 @@
 :::: 개인 번역 (Private Translations) :::
 
 | 연도 | 저자 | 한글 제목 | 영어 제목 |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 2025 | Jaak Panksepp, Lucy Biven | [<i>마음의 고고학 : 감정의 신경진화적 기원</i>](http://knpaca.kr/translation/2012-taom/)』 | ([<i>The Archaeology of Mind : Neuroevolutionary Origins of Human Emotions</i>](https://www.amazon.com/dp/B099KRPYR5)) |
 | 2024 | Sigmund Freud, Mark Solms | [<i>프로이트 전집 표준판 개정본</i>](http://knpaca.kr/translation/rse24/)』 | ([<i>The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud</i>](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175170/)) 24권 |
 
